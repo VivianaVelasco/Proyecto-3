@@ -1,0 +1,97 @@
+{
+  "configVersion": 1,
+  "timestamp": 1659926461348,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.65c31b4eec8afc07.js",
+        "/manifest.webmanifest",
+        "/polyfills.d78cb3803f4925fd.js",
+        "/runtime.cec275dbbf1e6f01.js",
+        "/scripts.fa4e766366613407.js",
+        "/styles.2af2a77adab24c23.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/imagenes/foto1.jpeg",
+        "/assets/imagenes/foto2.jpeg",
+        "/assets/imagenes/foto3.jpeg",
+        "/assets/imagenes/imagenCuentaEdit.jpg",
+        "/assets/imagenes/titleBlog.jpeg",
+        "/bootstrap-icons.6fdf98f9eb97d9e7.woff2",
+        "/bootstrap-icons.dba5e3b77b478961.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/imagenes/foto1.jpeg": "f39cc20754c050182c78ae86c96b3d77d8d2e68a",
+    "/assets/imagenes/foto2.jpeg": "0c8a4c9c371fa55e4d2f4025930b9a6a822e7ef4",
+    "/assets/imagenes/foto3.jpeg": "8d751f6f9c941deaa3de166353570a12273ef7da",
+    "/assets/imagenes/imagenCuentaEdit.jpg": "288fcc649b3eceb2c22111d0b2406987f141a559",
+    "/assets/imagenes/titleBlog.jpeg": "ed8c97e5c405e4b5f1950e6f65e97e13076704ed",
+    "/bootstrap-icons.6fdf98f9eb97d9e7.woff2": "3a284b0618771f29da8eb6be900e99439253dce0",
+    "/bootstrap-icons.dba5e3b77b478961.woff": "a77e6a2f335f3fcb4f2930794907c88ed7de7ca1",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "57f6192440a209f2501624581d03425e78b98ad1",
+    "/main.65c31b4eec8afc07.js": "ed04c6f4cd40164a382e1cb720326b898091b4c0",
+    "/manifest.webmanifest": "5d7d104a6affea8bc4f5a679e161a2230c7be258",
+    "/polyfills.d78cb3803f4925fd.js": "6f5f8014baccd671b855ab8782e4b6652ea9528a",
+    "/runtime.cec275dbbf1e6f01.js": "1eaedf0208aec49616cf175306db59bf0214a62f",
+    "/scripts.fa4e766366613407.js": "26e14912f20558391a96dea30b2bb1113f4b0fee",
+    "/styles.2af2a77adab24c23.css": "bf6c3f1c2bee355e2df2a705103bb8919465f418"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
